@@ -38,4 +38,6 @@ export class AppComponent {
 
   codigoVideo:string ="ngQ6Ddg9OoA";
 
+  activar:boolean = true;
+
 }
